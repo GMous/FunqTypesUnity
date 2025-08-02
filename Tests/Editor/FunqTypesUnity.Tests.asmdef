@@ -1,0 +1,20 @@
+{
+    "name": "FunqTypes.Tests",
+    "rootNamespace": "FunqTypes.Tests",
+    "references": [
+        "GUID:3684dc0de28454b0f92daa26cb41208d"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

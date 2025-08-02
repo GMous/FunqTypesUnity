@@ -1,0 +1,17 @@
+{
+  "name": "com.gmous.funqtypesunity",
+  "version": "0.1.0",
+  "unity": "2022.3",
+  "displayName": "Funq Types Unity",
+  "dependencies": {
+    "com.unity.test-framework": "1.5.1"
+  },
+  "author": {
+    "name": "GMous"
+  },
+  "testables": [
+    "com.gmous.funqtypesunity"
+  ],
+  "documentationUrl": "",
+  "description": "A lightweight funky functional types for Unity"
+}
