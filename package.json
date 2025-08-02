@@ -13,5 +13,5 @@
     "com.gmous.funqtypesunity"
   ],
   "documentationUrl": "",
-  "description": "A lightweight funky functional types for Unity"
+  "description": "A lightweight funky functional types for Unity.\nThis project is based on https://github.com/dnovhorodov/FunqTypes"
 }
