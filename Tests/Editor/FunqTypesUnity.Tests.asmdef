@@ -1,5 +1,5 @@
 {
-    "name": "FunqTypes.Tests",
+    "name": "FunqTypesUnity.Tests",
     "rootNamespace": "FunqTypes.Tests",
     "references": [
         "GUID:3684dc0de28454b0f92daa26cb41208d"
